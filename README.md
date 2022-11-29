@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vichentito&label=Profile%20views&color=0e75b6&style=flat" alt="vichentito" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vichentito" alt="vichentito" /></a> </p>
-
 - 🔭 I’m currently working on [2BCORE](http://www.2bcore.com)
 
 - 🌱 I’m currently learning **AI, Machine Learning, Ethical hacking and NLP**
